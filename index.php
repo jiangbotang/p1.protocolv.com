@@ -10,7 +10,7 @@
 		<h1>Jiangbo Tang</h1>
 		
 		<p>
-			Welcome my page, fellows!
+			Welcome to my page, fellows!
 		</p>
 
 		<p>
