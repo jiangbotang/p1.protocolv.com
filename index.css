@@ -13,6 +13,7 @@ h1 {
 
 p {
 	line-height: 150%;
+	text-align: justify;
 }
 em {
 	font-weight: bold;
