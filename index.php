@@ -4,6 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Jiangbo Tang's bio</title>
+		<link type="text/css" rel="stylesheet" href="index.css">
 	</head>
 
 	<body>
@@ -18,11 +19,11 @@
 		</p>
 
 		<p>
-			Enough of those boring stuff :). I like computer related stuff, particularly gaming (anyone doesn't?). I love biological science as well as CS. Which one I love more is an undecided question for me. But I do like the peace of mind when working with CS stuff, as most of the time if I mess up something, I know there is a fix and normally I can get it fixed in hours (hmmm, maybe sometimes in days). In biological science, not so much, there are too much variables that are out of your control, which always bugs me. Darn, guess I may need to see a shrink about that. 
+			Enough of those boring stuff :). I like computer related stuff, building/fixing computers, programming, gaming, etc. I love biological science as well. Which one I love more is an undecided question for me. But I do like the peace of mind when working with CS stuff, as most of the time if I mess up something, I know there is a fix and normally I can get it fixed in hours (hmmm, maybe sometimes in days). In biological science, not so much, there are too much variables that are out of your control, which always bugs me. Darn, guess I may need to see a shrink about that. 
 		</p>
 
 		<p>
-			All rights reserved and all materials edited in Sublime 2 :).
+			This page <a href="http://validator.w3.org/check?uri=www.p1.protocolv.com&ampcharset=%28detect+automatically%29&ampdoctype=Inline&ampgroup=0" title="html validation of this page">validate</a> and was edited in <em>Sublime 2<em>.
 		</p>
 
 	</body>
