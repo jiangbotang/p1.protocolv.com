@@ -23,7 +23,7 @@
 		</p>
 
 		<p>
-			This page <a href="http://validator.w3.org/check?uri=www.p1.protocolv.com&ampcharset=%28detect+automatically%29&ampdoctype=Inline&ampgroup=0" title="html validation of this page">validate</a> and was edited in <em>Sublime 2<em>.
+			This page <a href="http://validator.w3.org/check?uri=www.p1.protocolv.com&amp;charset=%28detect+automatically%29&amp;doctype=Inline&amp;group=0" title="html validation of this page">validate</a> and was edited in <em>Sublime 2</em>.
 		</p>
 
 	</body>
